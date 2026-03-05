@@ -24,9 +24,10 @@ The system collects news headlines using web scraping and classifies them as pos
 
 realtime.ipynb – performs real-time sentiment prediction using trained models  
 train_model.ipynb – trains machine learning models  
-all-data.csv – dataset used for training  
+financial-news-dataset.csv – dataset used for training  
 *.pkl – trained machine learning models
 
 ## Author
+
 
 Shruti Jaswal
